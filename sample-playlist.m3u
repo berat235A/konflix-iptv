@@ -1,0 +1,157 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TRT_1_logo_%282021-%29.svg/512px-TRT_1_logo_%282021-%29.svg.png" group-title="Genel",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/TRT_Haber_logo.svg/512px-TRT_Haber_logo.svg.png" group-title="Haber",TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TRT_Spor_logo.svg/512px-TRT_Spor_logo.svg.png" group-title="Spor",TRT Spor
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TRT_%C3%87ocuk_logo.svg/512px-TRT_%C3%87ocuk_logo.svg.png" group-title="Çocuk",TRT Çocuk
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/TRT_Belgesel_logo.svg/512px-TRT_Belgesel_logo.svg.png" group-title="Belgesel",TRT Belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/TRT_M%C3%BCzik_logo.svg/512px-TRT_M%C3%BCzik_logo.svg.png" group-title="Müzik",TRT Müzik
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Avaz_logo.svg/512px-TRT_Avaz_logo.svg.png" group-title="Genel",TRT Avaz
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/TRT_Türk_logo.svg/512px-TRT_Türk_logo.svg.png" group-title="Genel",TRT Türk
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_World_logo.svg/512px-TRT_World_logo.svg.png" group-title="Haber",TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/TRT_Arabi_logo.svg/512px-TRT_Arabi_logo.svg.png" group-title="Genel",TRT Arabi
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+
+
+#EXTINF:-1 group-title="|TR| VIP",Bein1
+http://176.123.10.77:8480/b1/index.m3u8
+
+#EXTINF:-1 group-title="|TR| VIP",Bein2
+http://176.123.10.77:8480/b2/index.m3u8
+
+#EXTINF:-1 group-title="|TR| VIP",Bein3
+http://176.123.10.77:8480/b3/index.m3u8
+
+#EXTINF:-1 group-title="|TR| VIP",Bein4
+http://176.123.10.77:8480/b4/index.m3u8
+
+#EXTINF:-1 group-title="|TR| VIP",Bein5
+http://176.123.10.77:8480/b5/index.m3u8
+
+#EXTINF:-1 group-title="|TR| VIP",Beinmax1
+http://176.123.10.77:8480/bmax1/index.m3u8
+
+#EXTINF:-1 group-title="|TR| VIP",Beinmax2
+http://176.123.10.77:8480/bmax2/index.m3u8
+
+#EXTINF:-1 group-title="|TR| VIP",Sporsmart1
+http://176.123.10.77:8480/smart1/index.m3u8
+
+#EXTINF:-1 group-title="|TR| VIP",Sporsmart2
+http://176.123.10.77:8480/smart2/index.m3u8
+
+#EXTINF:-1 group-title="|TR| VIP",Tivibu1
+http://176.123.10.77:8480/t1/index.m3u8
+
+#EXTINF:-1 group-title="|TR| VIP",Tivibu2
+http://176.123.10.77:8480/t2/index.m3u8
+
+#EXTINF:-1 group-title="|TR| VIP",Tivibu3
+http://176.123.10.77:8480/t3/index.m3u8
+
+#EXTINF:-1 group-title="|TR| VIP",Tivibu4
+http://176.123.10.77:8480/t4/index.m3u8
+
+#EXTINF:-1 group-title="|TR| VIP",Ssport1
+http://176.123.10.77:8480/s1/index.m3u8
+
+#EXTINF:-1 group-title="|TR| VIP",Ssport2
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",CNN TÜRK
+http://116.202.238.88/CNNTURK_TR/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",CNN TÜRK
+https://b.fulltvizle.com/cnn/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B4XX5Vx/akittv.png",AKIT TV
+http://akittv-live.ercdn.net/akittv/akittv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png",A HABER
+https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png",A HABER
+https://b.fulltvizle.com/ahaber/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wdwm0fn/haberturk.png",HABER TÜRK
+https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png",HABER GLOBAL
+https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZXts607/ulketv.png",ÜLKE
+https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png",TV 100
+https://tv100-live.daioncdn.net/tv100/tv100.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png",NTV
+http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9s9YKYT/gzt.png",GZT
+https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vJJzR8G/tgrthab22.png",TGRT HABER
+https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jLd8Fcb/aa.png",AA (feed)
+http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ln92Dj2/Ekoltv.png",EKOL TV
+https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HXKrJRC/blght22.png",BLOOMBERG HT
+https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
+
+# EXTINF : 0 , TRT WORLD HD
+https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qDF8pHQ/tdcc.png",TRT DİYANET ÇOCUK
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DM1tZ9Q/diyncc.png",DİYANET ÇOCUK TV
+https://new.cache-stream.workers.dev/stream/UCCfTktnzWK__FUN4gj0zIpA/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L8ftBdN/minikacocuk.png",MİNİKA ÇOCUK (offline)
+http://trn10.tulix.tv/gt-minikacocuk/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R2Zgy7F/minikago.png",MİNİKA GO (offline)
+http://trn10.tulix.tv/gt-minikago/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R2Zgy7F/minikago.png",MİNİKA GO (backup)
+http://tgn.bozztv.com/dvrfl05/gin-minikago/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R2Zgy7F/minikago.png",MİNİKA GO (backoff)
+https://trkvz-live.daioncdn.net/minikago/minikago.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R2Zgy7F/minikago.png",MİNİKA GO (backoff)
+https://trkvz.daioncdn.net/minikago/minikago.m3u8?app=web&ce=3
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L8ftBdN/minikacocuk.png",MİNİKA ÇOCUK (backoff)
+https://trkvz-live.daioncdn.net/minikago_cocuk/minikago_cocuk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L8ftBdN/minikacocuk.png",MİNİKA ÇOCUK (backoff)
+https://trkvz.daioncdn.net/minikago_cocuk/minikago_cocuk.m3u8?app=web&ce=3
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8g20RBH/ebatek.png",TRT EBA TV
+https://tv-e-okul01.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8g20RBH/ebatek.png",TRT EBA TV
+https://ebao.blutv.com/blutv_ebao2/live.m3u8
